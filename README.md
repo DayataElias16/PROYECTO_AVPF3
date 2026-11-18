@@ -77,8 +77,6 @@ python APF3_EliasRamirez.py --carpeta imagenes_prueba/  # evalúa imágenes suel
 - Hay **falsos negativos** cuando el power bank refleja luz o está muy girado.
 - Los cuadros a veces incluyen la mano que sostiene el objeto.
 
-Los detalles y las capturas están en el informe técnico y en la carpeta `capturas/`.
-
 ## Limitaciones y mejoras
 
 - Dataset pequeño para un clasificador Haar.
